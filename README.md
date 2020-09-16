@@ -1,5 +1,5 @@
 # Mobility-Model
-Code for getting figures, tables, and other results from manuscript submitted
+Code for getting datasets, figures, tables, and other results from manuscript submitted
 
 This repository contains code for running the model described in Schaber et. al. (in press).
 
